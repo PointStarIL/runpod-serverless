@@ -1,1 +1,1 @@
-infer.py
+../infer.py
